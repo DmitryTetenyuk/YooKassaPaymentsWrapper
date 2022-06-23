@@ -1,0 +1,13 @@
+{
+  "pins" : [
+    {
+      "identity" : "yookassapaymentsbinary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DmitryTetenyuk/YooKassaPaymentsBinary",
+      "state" : {
+        "revision" : "92123f55e266bab78fd31fa69f235eb62e4cadd6"
+      }
+    }
+  ],
+  "version" : 2
+}
