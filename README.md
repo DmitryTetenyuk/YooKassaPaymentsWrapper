@@ -1,4 +1,4 @@
-# YandexMapsMobileWrapper
+# YooKassaPaymentsWrapper
 
 ## Installation
 
